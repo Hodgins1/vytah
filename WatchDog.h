@@ -1,6 +1,6 @@
 /** @file WatchDog.h
  *  @author Robert Sochuliak
- *  @date 12 dec 2017
+ *  @date 8 Jan 2018
  */
 
 

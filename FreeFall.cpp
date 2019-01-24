@@ -1,7 +1,7 @@
 #include "FreeFall.h"
 #include "Communication.h"
 
-DigitalOut freeFall_LED(LED_RED); 
+DigitalOut freeFall_LED(LED_RED);   //nastavenie led na cervenu
 InterruptIn acc(PTA15);             //Nastavenie prerušenia od akcelerometra
 I2C i2c(SDA, SCL);
 

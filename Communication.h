@@ -1,7 +1,7 @@
 /**
  * @file Communication.h
  * @author Robert Sochuliak
- * @date 9 Jan 2018
+ * @date 8 Jan 2018
  */
 
 #include "mbed.h"
